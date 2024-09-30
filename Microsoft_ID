@@ -1,0 +1,8 @@
+Microsoft Defender para Nuvem
+A instrutora explicou que o Microsoft Defender para Nuvem é essencial para proteger nossos recursos na nuvem. Ele oferece proteção proativa, identificando e mitigando ameaças em tempo real. Além disso, integra segurança em todas as fases do desenvolvimento e execução de aplicativos, proporcionando uma visão unificada da postura de segurança.
+
+Microsoft Entra ID e Funções Administrativas
+Aprendi que o Microsoft Entra ID (antigo Azure AD) é fundamental para o gerenciamento de identidades e acessos. A instrutora destacou a importância de atribuir funções específicas a usuários ou grupos, como Administrador de Usuários e Administrador de Aplicativos. Essas funções ajudam a gerenciar permissões de forma eficaz, garantindo que cada usuário tenha acesso apenas ao que precisa.
+
+Usuários e Usuários Excluídos
+Outra parte interessante foi sobre o gerenciamento de usuários. No Microsoft Entra, podemos adicionar novos usuários e gerenciar suas permissões facilmente. Também é possível restaurar usuários que foram excluídos recentemente, o que é ótimo para evitar problemas caso alguém seja removido por engano. E, claro, também podemos excluir usuários permanentemente quando necessário.
